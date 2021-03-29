@@ -1,0 +1,1 @@
+{"version":3,"sources":["Sum.scss","App.scss"],"names":[],"mappings":"AAAA,MACE,cAAe,CCDjB,WACE,WAAY","file":"main.fc01975a.chunk.css","sourcesContent":[".text {\r\n  font-size: 20px;\r\n}",".container {\n  margin: 30px;\n}\n"]}
